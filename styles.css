@@ -10,7 +10,7 @@ body {
 }
 
 #container {
-    width: 55rem;
+    width: 63rem;
     height: 30rem;
     background-color: white;
     margin: 10vh auto;
@@ -26,7 +26,21 @@ body {
     display: flex;
     flex-direction: column;
     text-align: left;
-    /* align-items: center; */
     justify-content: center;
     padding-left: 5rem;
+}
+
+.side-b {
+    padding: 2rem;
+}
+
+.side-b nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.year span {
+    color: #cdcdcd;
+    font-size: 1.4rem;
 }
