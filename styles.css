@@ -10,8 +10,8 @@ body {
 }
 
 #container {
-    width: 63rem;
-    height: 30rem;
+    width: 65rem;
+    height: 35rem;
     background-color: white;
     margin: 10vh auto;
     display: grid;
