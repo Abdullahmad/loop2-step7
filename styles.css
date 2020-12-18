@@ -40,6 +40,10 @@ body {
     justify-content: space-between;
 }
 
+.year {
+    margin-top: 1rem;
+}
+
 .year span {
     color: #cdcdcd;
     font-size: 1.4rem;
